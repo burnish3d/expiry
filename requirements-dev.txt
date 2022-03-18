@@ -1,0 +1,5 @@
+flask
+gunicorn
+pytest
+wheel
+flask_sqlalchemy
